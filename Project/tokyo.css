@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    overflow-y: scroll;
+  background-image: url("https://i.pinimg.com/originals/84/53/f0/8453f04462611488d6f090a6a55037a9.gif");
+}
+header{
+    width: 100vw; height: 100px; color: rgb(245, 26, 10); display: inline-block; z-index: 20; top: 0px; position: fixed; 
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/dark-circles.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+ 
+
+
+
+
+footer{
+     color: red; width: 100vw; height: 100px; display: inline-block; 
+     background-color: #fff9f9;
+background-image: url("https://www.transparenttextures.com/patterns/dark-circles.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+bottom: 0; position: fixed;
+}
+
+}
